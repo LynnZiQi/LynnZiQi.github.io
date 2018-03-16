@@ -1,1 +1,1 @@
-# LynnZiQi.github.io
+fork from https://github.com/YangHanqing/tinyblog
