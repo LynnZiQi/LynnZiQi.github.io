@@ -54,11 +54,11 @@
  2. 细化（Elaboration):已精化的构想、核心架构的迭代实现、高风险的解决、确定大多数需求和范围一进进行更为实际的评估
  3. 构造(Construction):对遗留下来的风险较低和比较简单的元素进行迭代实现，准备部署
  4. 移交(Transition):进行beta测试和部署
-
+ 
+里程碑是迭代的结束点，此时有重要决策或评估产生。
 ![参照课件](https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png)
-图片无法显示请点击<a href = https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png>这里</a>
+*图片无法显示请点击<a href = https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png>这里</a>
 
- 里程碑是迭代的结束点，此时有重要决策或评估产生。
 
 4.IT 项目管理中，“工期、质量、范围/内容” 三个元素中，在合同固定条件下，为什么说“范围/内容”是项目团队是易于控制的
 工期是在合同中规定的，质量也受到甲方的约束（交付时要达到的效果是约定好的，写在合同里）。范围/内容是项目团队在具体实践中真正实现的东西，可以通过不停迭代、增量以扩大范围、完善内容等。
