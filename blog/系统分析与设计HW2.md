@@ -54,7 +54,7 @@
  3. 构造(Construction):对遗留下来的风险较低和比较简单的元素进行迭代实现，准备部署
  4. 移交(Transition):进行beta测试和部署
  里程碑是迭代得结束点，此时有重要决策或评估产生。
-![参照课件](//https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png)
+![参照课件](https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png)
 
 
 4.IT 项目管理中，“工期、质量、范围/内容” 三个元素中，在合同固定条件下，为什么说“范围/内容”是项目团队是易于控制的
