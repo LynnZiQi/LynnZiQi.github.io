@@ -1,4 +1,5 @@
 
+
 一、简答题
 1.简述瀑布模型、增量模型、螺旋模型（含原型方法）的优缺点。
  **- 瀑布模型**
@@ -55,6 +56,8 @@
  4. 移交(Transition):进行beta测试和部署
 
 ![参照课件](https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png)
+图片无法显示请点击<a href = https://github.com/LynnZiQi/LynnZiQi.github.io/blob/master/img/HW2.png>这里</a>
+
  里程碑是迭代的结束点，此时有重要决策或评估产生。
 
 4.IT 项目管理中，“工期、质量、范围/内容” 三个元素中，在合同固定条件下，为什么说“范围/内容”是项目团队是易于控制的
